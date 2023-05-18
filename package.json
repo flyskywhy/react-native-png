@@ -1,5 +1,5 @@
 {
-  "name": "react-native-png",
+  "name": "react-native-png-stream-browserify",
   "version": "0.0.5",
   "description": "",
   "main": "src/png.js",
